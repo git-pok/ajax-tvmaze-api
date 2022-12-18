@@ -1,7 +1,7 @@
 // API Link: <https://www.tvmaze.com/api>
 // Show with no image: Pointy Horror,
 // the above show is to test default image that appears for it
-"use strict";
+// "use strict";
 
 const $showsList = $("#showsList");
 const $episodesArea = $("#episodesArea");
